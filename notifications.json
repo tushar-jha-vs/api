@@ -11,7 +11,7 @@
     "image": "reflection",
     "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
     "status": true,
-    "createdAt": 1709769600000
+    "createdAt": 1710128931000
   },
   {
     "id": "3",
@@ -32,7 +32,7 @@
     "image": "D-active",
     "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
     "status": false,
-    "createdAt": 1709510400000
+    "createdAt": 1708926531000
   },
   {
     "id": "6",
@@ -46,7 +46,7 @@
     "image": "reminder",
     "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
     "status": false,
-    "createdAt": 1709337600000
+    "createdAt": 1702273731000
   },
   {
     "id": "8",
