@@ -1,72 +1,73 @@
+
 [
   {
     "id": "1",
     "image": "reflection",
     "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": true,
+    "isRead": true,
     "createdAt": 1709856000000
   },
   {
     "id": "2",
     "image": "reflection",
     "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": true,
+    "isRead": true,
     "createdAt": 1710128931000
   },
   {
     "id": "3",
     "image": "reminder",
     "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": false,
+    "isRead": false,
     "createdAt": 1709683200000
   },
   {
     "id": "4",
     "image": "reminder",
     "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": false,
+    "isRead": false,
     "createdAt": 1709596800000
   },
   {
     "id": "5",
     "image": "D-active",
     "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": false,
+    "isRead": false,
     "createdAt": 1708926531000
   },
   {
     "id": "6",
     "image": "reminder",
     "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": false,
+    "isRead": false,
     "createdAt": 1709424000000
   },
   {
     "id": "7",
     "image": "reminder",
     "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": false,
+    "isRead": false,
     "createdAt": 1702273731000
   },
   {
     "id": "8",
     "image": "reminder",
     "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": false,
+    "isRead": false,
     "createdAt": 1709251200000
   },
   {
     "id": "9",
     "image": "reminder",
     "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": false,
+    "isRead": false,
     "createdAt": 1709164800000
   },
   {
     "id": "10",
     "image": "reflection",
     "text": "Reminder of the day Unlocked\nComplete exercises for bonus points!",
-    "status": false,
+    "isRead": false,
     "createdAt": 1709078400000
   }
 ]
